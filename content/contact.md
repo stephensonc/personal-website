@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-featured_image: "images/ResumePhoto.jpg"
+featured_image: "/images/ResumePhoto.jpg"
 omit_header_text: true
 description:
 type: page
