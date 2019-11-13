@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-featured_image: "images/notebook.jpg"
+featured_image: "images/ResumePhoto.jpg"
 omit_header_text: true
 description:
 type: page
@@ -9,6 +9,6 @@ menu:
 
 ---
 
-Email: stephensonc@allegheny.edu
-Phone: (774)-275-7067
+Email: stephensonc@allegheny.edu<br>
+Phone: (774)-275-7067<br>
 GitHub: https://github.com/cgstephenson
