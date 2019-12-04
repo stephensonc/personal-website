@@ -1,7 +1,5 @@
 ---
 title: "About Me"
-description: "Software Engineer and Roboticist"
-featured_image: '../images/AlleghenyCollege-logo.jpg'
 type: page
 menu:
   main: {}
