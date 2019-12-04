@@ -1,7 +1,7 @@
 ---
 title: "Education"
 description: "Currently a sophomore at Allegheny College"
-featured_image: 'images/AlleghenyCollege-logo.png'
+featured_image: '../images/AlleghenyCollege-logo.png'
 ---
 * Allegheny College in Meadville, PA
   - 2018 – 2022
