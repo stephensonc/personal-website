@@ -1,11 +1,11 @@
 ---
 title: "Education"
 description: "Currently a sophomore at Allegheny College"
-featured_image: '../images/AlleghenyCollege-logo.png'
 type: page
 menu:
   main: {}
 ---
+{{< figure src="../images/AlleghenyCollege-logo.png" title=
 * Allegheny College in Meadville, PA
   - 2018 – 2022
   - Honors Program
