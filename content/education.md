@@ -1,6 +1,6 @@
 ---
 title: "Education"
-description: "Currently a sophomore at Allegheny College"
+#description: "Currently a sophomore at Allegheny College"
 omit_header_text: true
 type: page
 menu:
