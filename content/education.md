@@ -6,7 +6,7 @@ type: page
 menu:
   main: {}
 ---
-{{< figure src="../images/AlleghenyCollege-logo.png" title="">}}<br>
+
 * Allegheny College in Meadville, PA
   - 2018 – 2022
   - Honors Program
