@@ -8,7 +8,6 @@ menu:
   main: {}
 
 ---
-
 Email: stephensonc@allegheny.edu<br>
 Phone: (774)-275-7067<br>
 GitHub: https://github.com/cgstephenson
