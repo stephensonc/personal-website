@@ -1,6 +1,6 @@
 ---
 title: "Education"
-#description: "Currently a sophomore at Allegheny College"
+#description: "Currently a senior at Allegheny College"
 omit_header_text: true
 type: page
 menu:
@@ -10,7 +10,7 @@ menu:
 * Allegheny College in Meadville, PA
   - 2018 – 2022
   - Honors Program
-  - GPA: 3.3
+  - GPA: 3.7
   - Computer Science Major, Theatre Minor
 * Bancroft High School in Worcester, MA
   - 2014 – 2018
